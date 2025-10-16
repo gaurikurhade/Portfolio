@@ -2,7 +2,7 @@ import React from 'react';
 
 function Activities() {
   return (
-    <div>
+    <div className="activities-container">
       <h1>Extracurricular Activities</h1>
       <ul>
         <li>Member of University Coding Club</li>

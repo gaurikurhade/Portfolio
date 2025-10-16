@@ -9,7 +9,7 @@ import Projects from './pages/Projects';
 import Activities from './pages/Activities';
 import Hobbies from './pages/Hobbies';
 import Contact from './pages/Contact';
-import './'
+import './App.css'
 function App() {
   return (
    <>
