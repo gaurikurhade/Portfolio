@@ -7,11 +7,12 @@ function Education() {
       <ul>
         <li>
           <strong>Bachelor of Technology in Computer Science</strong><br />
-          XYZ University, 2020 - 2024
+          Pimpri Chinchwad University,Pune 2023 - 2027
+
         </li>
         <li>
           <strong>High School</strong><br />
-          ABC Senior Secondary School, 2018 - 2020
+          Dnyanraj Engish Medium School And Junior College,Ale 2020 - 2022
         </li>
       </ul>
     </div>

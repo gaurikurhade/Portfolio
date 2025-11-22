@@ -5,10 +5,10 @@ function Hobbies() {
     <div>
       <h1>Hobbies</h1>
       <ul>
-        <li>Playing Guitar 🎸</li>
-        <li>Reading Tech Blogs 📚</li>
-        <li>Exploring Open Source 💻</li>
-        <li>Watching Sci-fi Movies 🎥</li>
+        <li>Listening to music and sketching</li>
+        <li>Travelling and exploring new places</li>
+        <li>Coding and exploring new technologies</li>
+        <li>Participating in hackathons and tech events</li>
       </ul>
     </div>
   );
